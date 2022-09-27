@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Book Binders",
+    "githubLink": "https://github.com/LucasSansberro/book-workshop-sansberro",
+    "liveTestLink": "https://bookbinders.netlify.app/index.html",
+    "description": "A book workshop landing page. Made with HTML, CSS and JavaScript. It includes the use of libraries and API consumption",
+    "image": "https://i.im.ge/2022/09/28/1ADBk4.bookbinders-proyecto.png"
+  },
+  {
+    "id": 2,
+    "title": "MyBooks",
+    "githubLink": "https://github.com/LucasSansberro/E-Commerce-React-JS---Coderhouse",
+    "liveTestLink": "https://lucassansberro-mybooks.netlify.app/",
+    "description": "A bookshop E-Commerce. Made with React.js and Firebase. It includes useState, useEffect, useContext, React-router and firestore",
+    "image": "https://i.im.ge/2022/09/28/1ADv4M.mybooks-proyecto.png"
+  },
+  {
+    "id": 3,
+    "title": "Food Order app",
+    "githubLink": "https://github.com/LucasSansberro/Food-order",
+    "liveTestLink": "https://lucassansberro-reactmeals.netlify.app/",
+    "description": "A little practice page made with React.js for the eleventh module of the Udemy React course by Maximilian Schwarzmüller",
+    "image": "https://i.im.ge/2022/09/28/1ADnqY.foodorder-proyecto.png"
+  },
+  {
+    "id": 4,
+    "title": "Expense Tracker app",
+    "githubLink": "https://github.com/LucasSansberro/Expense-Tracker",
+    "liveTestLink": "https://lucassansberro-expense-tracker.netlify.app/",
+    "description": "Project made with React.js following the Udemy React course by Maximilian Schwarzmüller",
+    "image": "https://i.im.ge/2022/09/28/1ADp3h.expensetracker-proyecto.png"
+  },
+  {
+    "id": 5,
+    "title": "User Creator",
+    "githubLink": "https://github.com/LucasSansberro/User-creator",
+    "liveTestLink": "https://lucassansberro-user-creator.netlify.app/",
+    "description": "A little practice page made with React.js for the eighth module of the Udemy React course by Maximilian Schwarzmüller",
+    "image": "https://i.im.ge/2022/09/28/1ADHL8.usercreator-proyecto.png"
+  }
+]
