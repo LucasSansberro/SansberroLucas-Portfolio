@@ -10,18 +10,11 @@ function NavBar() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto">
-            <Nav.Link className="mx-lg-5" eventKey={1}>
-              Home
-            </Nav.Link>
-            <Nav.Link className="mx-lg-5" eventKey={2}>
-              About
-            </Nav.Link>
-            <Nav.Link className="mx-lg-5" eventKey={3}>
+            <Nav.Link className="pe-lg-5">About</Nav.Link>
+            <Nav.Link href="#projectsContainer" className="pe-lg-5">
               Projects
             </Nav.Link>
-            <Nav.Link className="mx-lg-5" eventKey={4}>
-              Skills
-            </Nav.Link>
+            <Nav.Link href="#skills">Skills</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
