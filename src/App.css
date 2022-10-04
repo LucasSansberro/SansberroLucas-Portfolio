@@ -1,7 +1,9 @@
 body {
   background-color: #ffcd94;
+  font-family: "Open Sans", serif;
 }
 
 .Card-BackgroundColor {
   background-color: #ffe0bd !important;
+  border: 1px solid rgba(0, 0, 0, 0.175);
 }
