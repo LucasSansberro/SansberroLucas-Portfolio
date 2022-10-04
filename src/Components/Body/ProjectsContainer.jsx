@@ -11,7 +11,7 @@ const ProjectsContainer = () => {
     >
       <div>
         {" "}
-        <h2 className="text-center pt-3">My projects</h2>
+        <h2 className="text-center pt-4">My projects</h2>
       </div>
       <div className="d-flex justify-content-around flex-wrap">
         {ProjectsList.map((project) => (

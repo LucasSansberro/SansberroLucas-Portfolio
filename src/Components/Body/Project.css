@@ -33,3 +33,16 @@
 .visitButton:active .visitButton_top {
  transform: translateY(0);
 }
+
+@media only screen and (max-width: 769px) {
+
+  .visitButton {
+    margin-top: 10px;
+    font-size:0.85em;
+  }
+
+  .visitButton_top {
+    padding:15px;
+  }
+
+}

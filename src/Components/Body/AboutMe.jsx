@@ -8,9 +8,9 @@ import "./AboutMe.css";
 
 function AboutMe() {
   return (
-    <Card className="container mt-5 rounded-3 Card-BackgroundColor">
+    <Card className="container mt-5 rounded-3 Card-BackgroundColor card">
       <Row className="p-3">
-        <Col lg="4">
+        <Col lg="4" md="6">
           <Card.Img className="myPic" src={MyPic} />
         </Col>
         <Col className="d-flex justify-content-around flex-column">
@@ -22,26 +22,26 @@ function AboutMe() {
           </div>
           <div className="mt-lg-5 d-flex justify-content-center">
             <a
-              className="workLinks mx-5"
+              className="workLinksAnimation me-lg-5"
               href="https://github.com/LucasSansberro"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                className="workLinks mx-5"
+                className="workLinks mx-auto"
                 src={gitHubIcon}
                 alt="GitHub icon"
               />
             </a>
             <div className="vr"></div>
             <a
-              className="workLinks mx-5"
+              className="workLinksAnimation ms-lg-5"
               href="https://www.linkedin.com/in/lucas-sansberro/"
               rel="noreferrer"
               target="_blank"
             >
               <img
-                className="workLinks mx-5"
+                className="workLinks mx-auto"
                 src={linkedinBlackIcon}
                 alt="LinkedIn icon"
               />
